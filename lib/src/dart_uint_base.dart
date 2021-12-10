@@ -1,7 +1,12 @@
-// TODO: Put public facing types in this file.
-
 import 'utils/classes/custom_int.dart';
 import 'utils/classes/custom_uint.dart';
+
+/* utils */
+
+export 'utils/classes/custom_base.dart';
+export 'utils/classes/has_binary.dart';
+export 'utils/classes/has_integer.dart';
+export 'utils/classes/has_twos_complement.dart';
 
 /// Checks if you are awesome. Spoiler: you are.
 class Awesome {
